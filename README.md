@@ -61,7 +61,7 @@ Switch to Feature1 branch and make some changes and rebase it to integration bra
 ```
 git switch Feature1
 
-touch Featutr1.txt
+touch Feature.txt
 git add .
 git commit -m "changes: Feature1"
 
