@@ -48,7 +48,7 @@ git switch Feature2
 touch Feature2.txt
 
 git add .
-git commit -m "changes: Feature2"
+git commit -m "changed Feature2"
 git push origin Feature2
 ```
 
@@ -107,7 +107,7 @@ git pull origin HotFix
 touch HotFix.txt
 
 git add .
-git commit -m "chnages: HotFix"
+git commit -m "changes: HotFix"
 git push origin HotFix
 ```
 
